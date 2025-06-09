@@ -1,0 +1,3 @@
+[submodule "git-docs"]
+	path = git-docs
+	url = https://github.com/git/htmldocs.git
