@@ -11,3 +11,5 @@ wheels/
 .env
 
 faiss_index/
+
+.DS_Store
